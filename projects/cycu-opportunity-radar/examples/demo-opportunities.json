@@ -1,0 +1,33 @@
+{
+  "notice": "以下資料完全虛構，僅用來示範欄位格式；不是實際中原大學公告。",
+  "items": [
+    {
+      "id": "demo-001",
+      "title": "【虛構範例】學生創新提案徵件",
+      "source": "示範資料來源",
+      "officialUrl": "https://example.org/demo-001",
+      "categories": [
+        "創業",
+        "競賽"
+      ],
+      "publishedAt": "2026-09-01",
+      "deadline": "2026-10-31",
+      "deadlineStatus": "sample_only",
+      "description": "這是虛構的示範公告，不可當作報名依據。"
+    },
+    {
+      "id": "demo-002",
+      "title": "【虛構範例】國際交流說明會",
+      "source": "示範資料來源",
+      "officialUrl": "https://example.org/demo-002",
+      "categories": [
+        "國際／出國",
+        "講座"
+      ],
+      "publishedAt": "2026-09-02",
+      "deadline": null,
+      "deadlineStatus": "unconfirmed",
+      "description": "示範未確認截止日的呈現方式；請核對真正的官方公告。"
+    }
+  ]
+}
