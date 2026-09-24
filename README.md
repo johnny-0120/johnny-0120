@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**johnny-0120/johnny-0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 嗨，我是 Johnny 徐專洧 👋
 
-Here are some ideas to get you started:
+我是中原大學智慧運算與大數據學士班的大一學生，對 AI、電機與科技創新充滿興趣，希望透過程式設計與實際專案，解決生活中遇到的問題。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 關於我
+
+- **系級**：中原大學 智慧運算與大數據學士班 大一
+- **正在學習**：Python、GitHub、計算機概論
+- **感興趣的領域**：人工智慧、電機工程、機器人與創業
+- **目前的專案**：中原資訊收集系統，嘗試利用 AI 整理校園資訊，讓學生更容易找到需要的資訊
+- **這學期的目標**：打好程式設計基礎，累積實作經驗，完成能夠實際解決問題的專案
+
+## 中原智運
+
+[中原大學智慧運算與大數據學士班](https://icbd.cycu.edu.tw/)
